@@ -1,0 +1,101 @@
+Nacitalo sa 2 zaznamov
+1.
+kategoria: osobny automobil
+znacka: Ferrari
+predajca: Autobazar Pestovatelska 4 Bratislava
+cena: 68957
+rok_vyroby: 2012
+stav_vozidla: udrziavane cervene dvojdverove
+2.
+kategoria: kamion
+znacka: Renault magnum
+predajca: AUTO Modranska 5 Senec
+cena: 28000
+rok_vyroby: 2016
+stav_vozidla: po havarii opraveny v dobrom stave
+1.
+kategoria: osobny automobil
+znacka: Ferrari
+predajca: Autobazar Pestovatelska 4 Bratislava
+cena: 68957
+rok_vyroby: 2012
+stav_vozidla: udrziavane cervene dvojdverove
+2.
+kategoria: karavan
+znacka: Kostitras
+predajca: JANA, Vitanova 147
+cena: 20250
+rok_vyroby: 2010
+stav_vozidla: Voz na dovolenku
+3.
+kategoria: kamion
+znacka: Renault magnum
+predajca: AUTO Modranska 5 Senec
+cena: 28000
+rok_vyroby: 2016
+stav_vozidla: po havarii opraveny v dobrom stave
+Vymazalo sa 1 zaznamov
+1.
+kategoria: osobny automobil
+znacka: Ferrari
+predajca: Autobazar Pestovatelska 4 Bratislava
+cena: 68957
+rok_vyroby: 2012
+stav_vozidla: udrziavane cervene dvojdverove
+2.
+kategoria: kamion
+znacka: Renault magnum
+predajca: AUTO Modranska 5 Senec
+cena: 28000
+rok_vyroby: 2016
+stav_vozidla: po havarii opraveny v dobrom stave
+1.
+kategoria: kamion
+znacka: Renault magnum
+predajca: AUTO Modranska 5 Senec
+cena: 28000
+rok_vyroby: 2006
+stav_vozidla: po havarii opraveny v dobrom stave
+1.
+kategoria: osobny automobil
+znacka: Ferrari
+predajca: Autobazar Pestovatelska 4 Bratislava
+cena: 68957
+rok_vyroby: 2012
+stav_vozidla: udrziavane cervene dvojdverove
+2.
+kategoria: kamion
+znacka: Renault magnum
+predajca: AUTO Modranska 5 Senec
+cena: 28000
+rok_vyroby: 2016
+stav_vozidla: po havarii opraveny v dobrom stave
+3.
+kategoria: osobny automobil
+znacka: Ferrari
+predajca: Autobazar AAA Bratislava
+cena: 68800
+rok_vyroby: 2013
+stav_vozidla: cervene dvojdverove vo vybornom stave
+Aktualizovalo sa 1 zaznamov
+1.
+kategoria: osobny automobil
+znacka: Ferrari
+predajca: Autobazar Pestovatelska 4 Bratislava
+cena: 68957
+rok_vyroby: 2012
+stav_vozidla: udrziavane cervene dvojdverove
+2.
+kategoria: kamion
+znacka: Renault magnum
+predajca: AUTO Modranska 5 Senec
+cena: 28000
+rok_vyroby: 2016
+stav_vozidla: po havarii opraveny v dobrom stave
+3.
+kategoria: AKCIA
+znacka: Ferrari
+predajca: Autobazar AAA Bratislava
+cena: 65000
+rok_vyroby: 2013
+stav_vozidla: auto vo vybornom stave vhodne pre informatika

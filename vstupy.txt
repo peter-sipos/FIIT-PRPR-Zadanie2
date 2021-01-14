@@ -1,0 +1,36 @@
+n
+v
+p
+2
+karavan
+Kostitras
+JANA, Vitanova 147
+20250
+2010
+Voz na dovolenku
+v
+z
+tiT
+v
+h
+28500
+p
+5
+osobny automobil
+Ferrari
+Autobazar AAA Bratislava
+68800
+2013
+cervene dvojdverove vo vybornom stave
+v
+a
+Ferrari
+68800
+AKCIA
+Ferrari
+Autobazar AAA Bratislava
+65000
+2013
+auto vo vybornom stave vhodne pre informatika
+v
+k
